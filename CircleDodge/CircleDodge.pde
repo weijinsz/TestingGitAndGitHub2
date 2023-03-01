@@ -13,8 +13,8 @@
  *  setup():  Initilize variables when app is started, only one time.
  *  draw():   Update variables. Executed over and over again.
  */
-final public int BLACK = color(0, 0, 0);  
-final public int RED = color(255, 0, 0);
+final public int BLACK = color(20, 20, 20);  
+final public int RED = color(255, 20, 20);
 
 public Player player;
 public Enemy[] enemies;
